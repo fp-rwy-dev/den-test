@@ -1,4 +1,4 @@
-# Deno Example
+# Deno Example 2
 
 This example is a small [Deno](https://deno.land/) webserver.
 
